@@ -7,3 +7,4 @@ Strategy 2: Quantamental Model Development and Quantile Trading - Focuses on ext
 
 Strategy 3: Return Predictions from Trade Flow (in Crypto Assets) - Builds regression models on how direction of Trade flows (Buyer or Seller initiated trades) could help in prediciting the future price movement. Analyzes tick level analysis. The data used in this strategy is sample Crypto price data at tick level frequency but has not been uploaded separately.
 
+Strategy 4: FX Carry Trade - Studies the performance of Carry Trade in four Emerging Market countries over the last 8 to 10 years. 
